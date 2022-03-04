@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @jgengo-alt
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi 👋, I’m @jgengo-alt 
 
-<!---
-jgengo-alt/jgengo-alt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+It is just my alt account. You can find my my official Github <a href='https://github.com/jgengo'>here</a>
+
+I'm trying to open myself to other topics I usually reject as: frontend or javascript 👀 but I don't want to polluate my principal account with unappealing repositories I won't take good care 🐱
+
+
